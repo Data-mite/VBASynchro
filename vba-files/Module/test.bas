@@ -1,18 +1,5 @@
 Attribute VB_Name = "test"
 
-
-Public Sub test()
-
-    MsgBox "Test", , "title"
-
-End Sub
-
-Public Sub Alert()
-
-    MsgBox "Aleaaaaaaart!", , "title"
-
-End Sub
-
 Public Sub Synch()
 
     Dim fsoTarget As FileSystemObject
